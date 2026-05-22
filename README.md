@@ -22,8 +22,8 @@ Step 4: End the program.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: 
-RegisterNumber: 
+Developed by: M.Someshvaran
+RegisterNumber: 212225230270
 */
 ```
 
